@@ -1,4 +1,4 @@
-package org.jesperancinha.sound.garage.steelzack.sound.garage.generator;
+package org.jesperancinha.sound.garage;
 
 public class SoundGenerator {
 	public static void main(String[] args) throws Exception {

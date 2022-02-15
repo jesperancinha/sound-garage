@@ -21,6 +21,10 @@ A JAVA project that explores sound management
 ## References:
 
 - [Musical_scale](http://rosettacode.org/wiki/Musical_scale)
+- http://stackoverflow.com/questions/1932490/java-generating-sound
+- http://stackoverflow.com/questions/7782721/java-raw-audio-output/7782749#7782749
+- https://docs.oracle.com/javase/tutorial/sound/MIDI-synth.html
+- http://courses.cs.vt.edu/~cs1124/Lectures/Lecture%2015.1.pdf
 
 ## Buy me a coffee
 

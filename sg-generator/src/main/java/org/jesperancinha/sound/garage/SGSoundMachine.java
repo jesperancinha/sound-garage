@@ -1,4 +1,4 @@
-package org.jesperancinha.sound.garage.steelzack.sound.garage.generator;
+package org.jesperancinha.sound.garage;
 
 import static javax.sound.midi.ShortMessage.NOTE_ON;
 
