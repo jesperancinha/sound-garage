@@ -1,4 +1,4 @@
-package com.steelzack.sound.garage.generator;
+package org.jesperancinha.sound.garage.steelzack.sound.garage.generator;
 
 import org.junit.Test;
 
