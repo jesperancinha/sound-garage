@@ -18,6 +18,14 @@
 
 A JAVA project that explores sound management
 
+## Play Happy birthday
+
+Check the [Makefile](./Makefile) first and then use the play command:
+
+```shell
+make play
+```
+
 ## References:
 
 - [Musical_scale](http://rosettacode.org/wiki/Musical_scale)

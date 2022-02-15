@@ -11,10 +11,9 @@ import javax.sound.midi.ShortMessage;
 
 public class SGSoundMachine {
 
-	public static void playNotes(int[][] configuration)
+	public static void playNotes(int[][] configuration, MidiDevice synth)
 			throws InvalidMidiDataException, MidiUnavailableException, InterruptedException {
 
-		MidiDevice synth = MidiSystem.getSynthesizer();
 		synth.open();
 		for (int i = 0; i < configuration.length; i++) {
 			ShortMessage myC1Msg = new ShortMessage();
