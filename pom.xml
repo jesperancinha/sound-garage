@@ -17,7 +17,7 @@
         <jlayer.version>1.0.1</jlayer.version>
         <junit.version>4.13.2</junit.version>
         <omni-coveragereporter-maven-plugin.version>0.3.0</omni-coveragereporter-maven-plugin.version>
-        <jacoco-maven-plugin.version>0.8.7</jacoco-maven-plugin.version>
+        <jacoco-maven-plugin.version>0.8.8</jacoco-maven-plugin.version>
     </properties>
 
     <modules>
